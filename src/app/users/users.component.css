@@ -1,0 +1,11 @@
+.mat-card-image {
+    width: 40px;
+    border-radius: 50%
+}
+
+.mat-card {
+    margin: 10px;
+    width: 400px;
+    height: 200px;
+    background-color: azure;
+}
